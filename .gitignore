@@ -1,0 +1,49 @@
+# ==================== IntelliJ IDEA ====================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# ==================== Java ====================
+*.class
+*.jar
+!TUGAS2_PBO_230401070204_MUHAMMAD_KETSAR_ALI_ABI_WAHID.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+# ==================== Eclipse ====================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# ==================== NetBeans ====================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ==================== VS Code ====================
+.vscode/
+
+# ==================== OS Files ====================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==================== Misc ====================
+*.bak
+*.tmp
+*.swp
